@@ -30,7 +30,3 @@ Pete Spangler's repository for assignments and practice files for [Udacity Azure
 - Setup auto-scaling on a VMSS.
 - Setup Azure Automation and created a Runbook to automate the resolution of performance issues.
 - Created alerts to trigger auto-scaling on an AKS clsuter and trigger a RunBook to execute.
-
-# Graduated December 2020
-[Nanodegree Certificate Verification Link](https://graduation.udacity.com/confirm/UHPTK6LA)
-![Certificate][Graduation]
